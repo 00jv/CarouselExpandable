@@ -1,4 +1,4 @@
-Bem-vindo(a) ao repositório de estudo para um carousel expansível feito em HTML, CSS e JavaScript!
+# Bem-vindo(a) ao repositório de estudo para um carousel expansível feito em HTML, CSS e JavaScript!
 
 Este repositório é dedicado a um estudo prático sobre a criação de um carousel expansível, uma técnica utilizada para exibir uma quantidade maior de conteúdo em um espaço limitado na tela. O objetivo deste estudo é explorar as funcionalidades do HTML, CSS e JavaScript para criar um carousel responsivo e de fácil utilização.
 
