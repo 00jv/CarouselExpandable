@@ -11,3 +11,7 @@ O carousel expansível é altamente customizável e fácil de usar. Você pode a
 Este repositório é um projeto em constante evolução e estamos abertos a contribuições da comunidade. Se você tiver alguma sugestão ou quiser contribuir com código, fique à vontade para enviar uma solicitação de pull.
 
 Esperamos que este repositório ajude você a entender melhor como funciona um carousel expansível e aprimore suas habilidades em HTML, CSS e JavaScript. Obrigado por sua visita!
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/88150795/234616703-d5258f2b-fb31-4248-a5df-2fd419302cc1.png)
